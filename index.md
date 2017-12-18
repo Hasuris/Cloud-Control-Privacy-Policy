@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p>Alexander Graetz built the Sunrise Alarm for LIFX & Hue app as a commercial app. This SERVICE is provided by Alexander Graetz and is intended
+<p>Alexander Graetz built the Cloud Control for LIFX app as a freemium app. This SERVICE is provided by Alexander Graetz and is intended
     for use as is.</p>
 <p>This page is used to inform website visitors regarding my policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use my Service.</p>
@@ -10,11 +10,11 @@
     improving the Service. I will not use or share your information with anyone except as described
     in this Privacy Policy.</p>
 <p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
-    which is accessible at Sunrise Alarm for LIFX & Hue, unless otherwise defined in this Privacy Policy.</p>
+    which is accessible at Cloud Control for LIFX, unless otherwise defined in this Privacy Policy.</p>
 
 <p><strong>Information Collection and Use</strong></p>
 <p>For a better experience while using our Service, I may require you to provide us with certain
-    personally identifiable information, including but not limited to the LIFX remote access token, WiFi data (SSID & Mac) and the IP of the Hue Bridge. 
+    personally identifiable information, including but not limited to the LIFX remote access token, WiFi data (SSID & Mac) and location data as fine as chosen by you. 
 	The information that I request is retained on your device and is not
     collected by me in any way.</p>
 <p>The app does use third party services that may collect information used to identify you.
